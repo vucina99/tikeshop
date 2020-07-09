@@ -1,0 +1,28 @@
+[
+
+	{
+		"link1" : {
+			"text" : "TIKE SHOP",
+			"link" : "index.html"
+		},
+		"link2" : {
+			"text" : "PRODAVNICA",
+			"link" : "shop.html"
+		},
+		"link3" : {
+			"text" : "KONTAKT",
+			"link" : "kontakt.html"
+		},
+		"link4" : {
+			"text" : "<i class='fas fa-shopping-cart'></i>",
+			"link" : "korpa.html"
+		},
+		"link5" : {
+			"text" : "POČETNA",
+			"link" : "index.html"
+		}
+
+	}
+
+
+]

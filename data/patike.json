@@ -1,0 +1,140 @@
+[
+
+	{
+		"id" : 1 , 
+
+		"imeproizvoda" : "adidas fluks", 
+		"boja" : "crna", 
+		"opis" : "najnovije patike iz kolekcije fluks" , 
+		"marka" : {
+			"id" : 1, 
+			"imemarke" : "adidas"
+		},
+		"cena" : 120,
+		"pol" : "muski" ,
+		"zvezdice" : 4,
+		"slika" : {
+			"src" : "img/adidas1.png",
+			"alt" : "adidas1"
+		},
+		"velicine" : [35,36,45,46] 
+
+	},
+	{
+		"id" : 2 , 
+
+		"imeproizvoda" : "adidas pro", 
+		"opis" : "najnovije patike iz kolekcije pro" , 
+		"boja" : "siva", 
+		"marka" : {
+			"id" : 1, 
+			"imemarke" : "adidas"
+		},
+		"cena" : 130,
+		"pol" : "zenski",
+		"zvezdice" : 2 ,
+		"slika" : {
+			"src" : "img/adidas2.png",
+			"alt" : "adidas2"
+		},
+		"velicine" : [45,46]
+
+	},
+	{
+		"id" : 3 , 
+
+		"imeproizvoda" : "adidas sport", 
+		"opis" : "top model patika iz kolekcije sport" , 
+		"boja" : "bela", 
+		"marka" : {
+			"id" : 1, 
+			"imemarke" : "adidas"
+		},
+		"cena" : 150,
+		"pol" : "muski" ,
+		"zvezdice" : 5,
+		"slika" : {
+			"src" : "img/adidas3.png",
+			"alt" : "adidas3"
+		},
+		"velicine" : [45,46,48,50]
+	},
+
+	{
+		"id" : 4 , 
+
+		"imeproizvoda" : "nike air max", 
+		"opis" : "najnovije patike iz kolekcije nike" , 
+		"boja" : "bela", 
+		"marka" : {
+			"id" : 2, 
+			"imemarke" : "nike"
+		},
+		"cena" : 180,
+		"pol" : "zenski" ,
+		"zvezdice" : 4,
+		"slika" : {
+			"src" : "img/nike1.png",
+			"alt" : "nike1"
+		},
+		"velicine" : [50]
+	},
+
+	{
+		"id" : 5 , 
+
+		"imeproizvoda" : "adidas close", 
+		"boja" : "crna", 
+		"opis" : "najnovije patike iz kolekcije close" , 
+		"marka" : {
+			"id" : 1, 
+			"imemarke" : "adidas"
+		},
+		"cena" : 100,
+		"pol" : "muski" ,
+		"zvezdice" : 2,
+		"slika" : {
+			"src" : "img/adidas4.png",
+			"alt" : "adidas4"
+		},
+		"velicine" : [45,46,48,50]
+	},
+	{
+		"id" : 6 , 
+
+		"imeproizvoda" : "nike najkcine", 
+		"opis" : "novi model patika iz kolekcije nike" , 
+		"boja" : "crvena", 
+		"marka" : {
+			"id" : 2, 
+			"imemarke" : "nike"
+		},
+		"cena" : 200,
+		"pol" : "zenski" ,
+		"zvezdice" : 4,
+		"slika" : {
+			"src" : "img/nike2.png",
+			"alt" : "nike2"
+		},
+		"velicine" : [33,44,48]
+	},
+	{
+		"id" : 7 , 
+
+		"imeproizvoda" : "nike sivonje", 
+		"opis" : "top model sivih patika iz kolekcije nike" , 
+		"boja" : "siva", 
+		"marka" : {
+			"id" : 2, 
+			"imemarke" : "nike"
+		},
+		"cena" : 250,
+		"pol" : "muski" ,
+		"zvezdice" : 5,
+		"slika" : {
+			"src" : "img/nike3.png",
+			"alt" : "nike3"
+		},
+		"velicine" : [44,45,46,47,48,49]
+	}
+]
